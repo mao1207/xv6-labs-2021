@@ -117,5 +117,3 @@ void test2() {
   }
   printf("\ntest2 OK\n");  
 }
-
-
